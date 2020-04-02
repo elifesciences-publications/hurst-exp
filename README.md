@@ -1,3 +1,7 @@
+This code is associated with the paper from Han et al., "Deciphering anomalous heterogeneous
+intracellular transport with neural networks". eLife, 2020. http://dx.doi.org/10.7554/eLife.52224
+
+
 # hurst-exp
 Estimating Hurst exponents varying in time using neural networks for time series
 
